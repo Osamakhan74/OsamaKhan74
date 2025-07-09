@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Osama khan</h1>
+<h1 align="center">Hi 👋, I'm Osama Khan</h1>
 <h3 align="center">🎯 A Passionate Data Analyst | CSE Graduate</h3>
 
 <p align="center">
@@ -18,14 +18,14 @@
 - 🎓 I’m a Diploma CSE graduate exploring the world of **Data Analytics**  
 - 🧠 Currently learning **Python, Power BI, Excel, SQL**  
 - 📈 Building projects that turn data into insights  
-- 📬 Reach me at: **mdosamakhan75@gmail.com**  
+- 📬 Reach me at: **mdosamakhan740@gmail.com**  
 - ⚡ Fun fact: I debug best after chai ☕
 
 ---
 
 ### 🔗 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/osama-khan" target="blank">
+  <a href="https://www.linkedin.com/in/osama-khan-698186370" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /> Osama Khan
   </a>
 </p>
