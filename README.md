@@ -18,7 +18,7 @@
 - 🎓 I’m a Diploma CSE graduate exploring the world of **Data Analytics**  
 - 🧠 Currently learning **Python, Power BI, Excel, SQL**  
 - 📈 Building projects that turn data into insights  
-- 📬 Reach me at: **mdosamakhan740@gmail.com**  
+- 📬 Reach me at: **mdosamakhan75@gmail.com**  
 - ⚡ Fun fact: I debug best after chai ☕
 
 ---
